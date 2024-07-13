@@ -1,0 +1,23 @@
+
+
+.heading{
+    text-align: center;
+    font-size: 40%;
+}
+.h6{
+    text-align: center;
+    font-size: xx-large;
+}
+p{
+    font-size: large;
+}
+body{
+    padding-bottom: 5%;
+    background-color:rgb(226, 178, 150);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+}
